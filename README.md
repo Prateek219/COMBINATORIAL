@@ -102,3 +102,6 @@ a few shortcomings. There are a few limitations to how many simultaneous keystro
 presses two keys simultaneously which share a common bit, then a third key, while not actually pressed, will
 be triggered. Thus, this method is useful in making keypads where only one key is expected to be pressed at a
 time.
+
+![Screenshot (134)](https://user-images.githubusercontent.com/64007722/79969516-3dd90f00-84af-11ea-85ab-7848446c7a07.png)
+
