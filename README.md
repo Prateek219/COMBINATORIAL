@@ -11,6 +11,8 @@ combinatorial algebra tells us that n
 C2 switches will be implemented. Whenever the user presses any switch, a
 unique pair of I/O pins will be shorted. The microcontroller can now run a program to detect which pair of pins
 has been shorted. Here is a diagram of the design logic:
+![Screenshot (133)](https://user-images.githubusercontent.com/64007722/79969243-d6bb5a80-84ae-11ea-968b-15990f84d876.png)
+
 
 Here, the boxes represent the switches and the lines represent the I/O wires.
 
